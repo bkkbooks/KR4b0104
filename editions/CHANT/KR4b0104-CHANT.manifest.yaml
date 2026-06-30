@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR4b0104/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR4b0104/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 沈約集九卷
+  identifiers:
+    krp: KR4b0104
+  tags:
+    tls-dates: dat04500
+    tls-internal:
+    - swl
+    - tr-en
+    kr-categories: KR4b
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0104.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR4b0104_001-CHANT.yaml, hash: 'sha256:af127b1d19e372319cf24307792a78574f0d2c6bee6421ac7151316b061e46e5'}
+  - {seq: 2, filename: KR4b0104_002-CHANT.yaml, hash: 'sha256:b2cf8eef3f84d1d8039b2cb54edc9fdd1df23984c9aeba13a8fb512825350fb8'}
+  - {seq: 3, filename: KR4b0104_003-CHANT.yaml, hash: 'sha256:35925e6adb7021864c7e5ab6a26e96f98324118fa28a46e278e18fba1155e25a'}
+  - {seq: 4, filename: KR4b0104_004-CHANT.yaml, hash: 'sha256:b7293c7164aa3f04136b9a284dfc2c09b31e4cee8d0258da36b2dcfb3acf8d7a'}
+  - {seq: 5, filename: KR4b0104_005-CHANT.yaml, hash: 'sha256:ec4ea399e7cec9aa2c025052655405f2ea137ce829964092aebe87f2c90de48d'}
+  - {seq: 6, filename: KR4b0104_006-CHANT.yaml, hash: 'sha256:22fc6c0550949a2b8cbd2d5e903f103afcf6dfedd4a792107caa181f63ce3311'}
+  - {seq: 7, filename: KR4b0104_007-CHANT.yaml, hash: 'sha256:281b096233be32a30e5a9fb5e4c811e8413be5465a1378075e2bb35fd9e6b390'}
+  - {seq: 8, filename: KR4b0104_008-CHANT.yaml, hash: 'sha256:aca224cff03c22d81a5c2a6edd0bbb0849cd7f82272821b338e91db2a9c1c84e'}
+  - {seq: 9, filename: KR4b0104_009-CHANT.yaml, hash: 'sha256:0e733d394161da9c12025171df9ac74420ec51eb084d69af0f0ca32b92a33547'}
+  - {seq: 10, filename: KR4b0104_010-CHANT.yaml, hash: 'sha256:1c4cb3513dd32cc2a42b95af7721d4c5f2a14e5a89bfd7019730d20dd15db187'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4b0104_001-CHANT.markers.yaml, hash: 'sha256:65b5f60520704ab2b1a4ecafeb147885aa5408b0f2b9b7e034261139c20c4f35'}
+  - {seq: 2, role: markers, filename: assets/KR4b0104_002-CHANT.markers.yaml, hash: 'sha256:53a0e979583485a445d84d0f4556a23d2c100174dda1287b0af654a95669edf7'}
+  - {seq: 3, role: markers, filename: assets/KR4b0104_003-CHANT.markers.yaml, hash: 'sha256:f5cbf0122d1ae70a6fda8b021bb5058461e299fd40bf22cbd5573c7517ce7395'}
+  - {seq: 4, role: markers, filename: assets/KR4b0104_004-CHANT.markers.yaml, hash: 'sha256:398a81ce42cab2341935dc6ccfc8e4082b88d02927b59b3f3fd3da16300f388c'}
+  - {seq: 5, role: markers, filename: assets/KR4b0104_005-CHANT.markers.yaml, hash: 'sha256:0361420c54475d1af2964b3ef8b82753cec174475d7672336f9fd69649ce874f'}
+  - {seq: 6, role: markers, filename: assets/KR4b0104_006-CHANT.markers.yaml, hash: 'sha256:ca341c96b47a6f1ec770f478f7611d5e9818f535f479196ccaf7ccaf3ad9e9cd'}
+  - {seq: 7, role: markers, filename: assets/KR4b0104_007-CHANT.markers.yaml, hash: 'sha256:8ca47bca35423072bb5c64f06c7d52743de3c3119c76b936bad0f96387b13ae1'}
+  - {seq: 8, role: markers, filename: assets/KR4b0104_008-CHANT.markers.yaml, hash: 'sha256:59416e3f031f26e987f24d2f3ae37c12136312ceeca2f5f8e1cc49609f516629'}
+  - {seq: 9, role: markers, filename: assets/KR4b0104_009-CHANT.markers.yaml, hash: 'sha256:5775a7567001c39065fa096540948a69eb02a392a199d9f7069cc8c080becba0'}
+  - {seq: 10, role: markers, filename: assets/KR4b0104_010-CHANT.markers.yaml, hash: 'sha256:19e4f1b4ea41099f574e87bd83f7ad24e01b18dd1dc7e7813ea467bd32e94238'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4b0104_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 19014
+  label: 梁雅樂歌十一首
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR4b0104_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 3752
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR4b0104_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 6404
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR4b0104_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 5708
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR4b0104_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 4357
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR4b0104_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 6590
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR4b0104_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 7441
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR4b0104_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 7140
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR4b0104_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 3608
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR4b0104_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 670
+  label: 梁大壯大觀舞歌二首
+  type: section
+  level: 1
+hash: sha256:4d98a12045655e1893b71dcf929fa7b77fc1a7421eb7ae8f7c1130beecc9966d
